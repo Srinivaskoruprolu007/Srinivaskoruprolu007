@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Srinivas Koruprolu</h1>
 <h3 align="center">A passionate Data analyst from India</h3>
 
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=srinivasg3112
+)](https://github.com/KnlnKS/leetcode-stats)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinivaskoruprolu007&label=Profile%20views&color=0e75b6&style=flat" alt="srinivaskoruprolu007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srinivaskoruprolu007" alt="srinivaskoruprolu007" /></a> </p>
