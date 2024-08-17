@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Data analyst from India</h3>
 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=srinivasg3112
-)](https://github.com/KnlnKS/leetcode-stats)
+![LeetCode Stats](https://leetcard.jacoblin.cool/srinivasg3112?theme=dark&font=Roboto%20Mono&ext=heatmap)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinivaskoruprolu007&label=Profile%20views&color=0e75b6&style=flat" alt="srinivaskoruprolu007" /> </p>
 
