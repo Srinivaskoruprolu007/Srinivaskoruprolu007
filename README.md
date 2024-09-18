@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srinivaskoruprolu007" alt="srinivaskoruprolu007" /></a> </p>
 
-- 🔭 I’m currently working on **Dashboards on public data**
+- 🔭 I’m currently working on **Ensemble Learning**
 
 - 🌱 I’m currently learning **React, Angular**
 
