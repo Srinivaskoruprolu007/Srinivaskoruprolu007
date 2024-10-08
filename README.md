@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Ensemble Learning**
 
-- 🌱 I’m currently learning **React, Angular Django**
+- 🌱 I’m currently learning **React, Angular, and Django**
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
