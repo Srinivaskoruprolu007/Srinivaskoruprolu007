@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srinivas Koruprolu</h1>
-<h3 align="center">A passionate Data analyst from India</h3>
+<h3 align="center">A Passionate Data-analyst from India</h3>
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/srinivasg3112?theme=dark&font=Roboto%20Mono&ext=heatmap)
