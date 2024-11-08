@@ -24,7 +24,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/srinivas-koruprolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srinivas-koruprolu" height="30" width="40" /></a>
   <a href="https://kaggle.com/srinivaskoruprolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="srinivaskoruprolu" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/srinivasg3112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srinivasg3112" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/srinivasg3112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srinivaskoruprolu007" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -55,5 +55,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivaskoruprolu007&" alt="srinivaskoruprolu007" /></p>
 
-<h2>✍️ Random Dev Quotes</h2>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h2>✍️ Random Dev Quote</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>
