@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Srinivas Koruprolu</h1>
 <h3 align="center">A Passionate Data Analyst from India</h3>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/srinivasg3112?theme=dark&font=Roboto%20Mono&ext=heatmap)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/srinivasg3112?theme=dark&font=Roboto%20Mono&ext=heatmap"/>
+</p>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=srinivaskoruprolu007&label=Profile%20views&color=0e75b6&style=flat" alt="srinivaskoruprolu007" />
