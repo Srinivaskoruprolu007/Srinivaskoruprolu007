@@ -5,7 +5,6 @@
   <img src="https://leetcard.jacoblin.cool/srinivasg3112?theme=dark&font=Roboto%20Mono&ext=heatmap"/>
 </p>
 
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=srinivaskoruprolu007&label=Profile%20views&color=0e75b6&style=flat" alt="srinivaskoruprolu007" />
 </p>
@@ -14,14 +13,14 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srinivaskoruprolu007" alt="srinivaskoruprolu007" /></a>
 </p>
 
-- 🔭 I’m currently working on **Ensemble Learning**
-- 🌱 I’m currently learning **React, Angular, and Django**
-- 👯 I’m looking to collaborate on **Frontend projects**
-- 🤝 I’m looking for help with **ML Models**
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/srinivas-koruprolu/)
-- 💬 Ask me about **Data Visualization, Python, SQL**
-- 📫 How to reach me: **srinivasg3112@gmail.com**
-- ⚡ Fun fact: **I can play chess too**
+- 🔭 I’m currently working on **Ensemble Learning**  
+- 🌱 I’m currently learning **React, Angular, and Django**  
+- 👯 I’m looking to collaborate on **Frontend projects**  
+- 🤝 I’m looking for help with **ML Models**  
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/srinivas-koruprolu/)  
+- 💬 Ask me about **Data Visualization, Python, SQL**  
+- 📫 How to reach me: **srinivasg3112@gmail.com**  
+- ⚡ Fun fact: **I can play chess too**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,6 +47,8 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" /></a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40" /></a>
 </p>
 
 <p>
