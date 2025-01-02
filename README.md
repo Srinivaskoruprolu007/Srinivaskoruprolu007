@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning **React, Angular, and Django**  
 - 👯 I’m looking to collaborate on **Frontend projects**  
 - 🤝 I’m looking for help with **ML Models**  
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/srinivas-koruprolu/)  
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/srinivas-koruprolu/) and [medium](https://medium.com/@srinivaskoruprolu5) 
 - 💬 Ask me about **Data Visualization, Python, SQL**  
 - 📫 How to reach me: **srinivasg3112@gmail.com**  
 - ⚡ Fun fact: **I can play chess too**  
