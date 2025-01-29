@@ -1,65 +1,92 @@
-<h1 align="center">Hi 👋, I'm Srinivas Koruprolu</h1>
-<h3 align="center">A Passionate Data Analyst from India</h3>
+<h1 align="center">Hey there! I'm Srinivas Koruprolu 👋</h1>
+<h3 align="center">Data Analyst & Full Stack Developer from India 🚀</h3>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/srinivasg3112?theme=dark&font=Roboto%20Mono&ext=heatmap"/>
-</p>
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srinivas-koruprolu)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@srinivaskoruprolu5)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/srinivasg3112)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/srinivaskoruprolu)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=srinivaskoruprolu007&label=Profile%20views&color=0e75b6&style=flat" alt="srinivaskoruprolu007" />
-</p>
+</div>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srinivaskoruprolu007" alt="srinivaskoruprolu007" /></a>
-</p>
+### 🎯 Current Focus
 
-- 🔭 I’m currently working on **Ensemble Learning**  
-- 🌱 I’m currently learning **React, Angular, and Django**  
-- 👯 I’m looking to collaborate on **Frontend projects**  
-- 🤝 I’m looking for help with **ML Models**  
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/srinivas-koruprolu/) and [medium](https://medium.com/@srinivaskoruprolu5) 
-- 💬 Ask me about **Data Visualization, Python, SQL**  
-- 📫 How to reach me: **srinivasg3112@gmail.com**  
-- ⚡ Fun fact: **I can play chess too**  
+- 🔬 Exploring **Ensemble Learning** and advanced ML techniques
+- 🌱 Expanding my stack with **React**, **Angular**, and **Django**
+- 🤝 Open to collaborate on **Frontend** and **Data Science** projects
+- 📊 Passionate about turning data into actionable insights
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/srinivas-koruprolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srinivas-koruprolu" height="30" width="40" /></a>
-  <a href="https://kaggle.com/srinivaskoruprolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="srinivaskoruprolu" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/srinivasg3112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srinivaskoruprolu007" height="30" width="40" /></a>
-</p>
+### 💡 What I Do
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" /></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" /></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" /></a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40" /></a>
-</p>
+```python
+class DataAnalyst:
+    def __init__(self):
+        self.name = "Srinivas Koruprolu"
+        self.role = "Data Analyst"
+        self.languages = ["Python", "SQL", "JavaScript", "TypeScript"]
+        self.daily_tasks = ["Data Analysis", "Visualization", "ML Model Development"]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's connect and build something amazing together!")
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivaskoruprolu007&show_icons=true&locale=en&layout=compact" alt="srinivaskoruprolu007" />
-</p>
+me = DataAnalyst()
+me.say_hi()
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srinivaskoruprolu007&show_icons=true&locale=en" alt="srinivaskoruprolu007" /></p>
+### 🛠️ Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivaskoruprolu007&" alt="srinivaskoruprolu007" /></p>
+<details>
+<summary>Data Science & ML</summary>
 
-<h2>✍️ Random Dev Quote</h2>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
+- Python | Pandas | Scikit-learn
+- Data Visualization (Seaborn)
+- SQL (PostgreSQL, MySQL, MS SQL)
+- Machine Learning
+</details>
+
+<details>
+<summary>Web Development</summary>
+
+- React.js | Angular
+- TypeScript | JavaScript
+- HTML5 | CSS3 | Tailwind CSS
+- Django | GraphQL
+</details>
+
+<details>
+<summary>Tools & Others</summary>
+
+- Git | GitHub
+- .NET | C#
+- Java
+- VSCode | Jupyter
+</details>
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/srinivasg3112?theme=dark&font=Roboto%20Mono&ext=heatmap" alt="LeetCode Stats" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srinivaskoruprolu007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivaskoruprolu007&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+### 🎯 Quick Facts
+
+- 📝 I write regularly on [LinkedIn](https://www.linkedin.com/in/srinivas-koruprolu/) and [Medium](https://medium.com/@srinivaskoruprolu5)
+- 📫 Reach me at: **srinivasg3112@gmail.com**
+- ♟️ Fun fact: I'm a chess enthusiast!
+
+### 💭 Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+<div align="center">
+  <i>Let's connect and build something amazing together!</i>
+</div>
