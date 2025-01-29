@@ -74,6 +74,10 @@ me.say_hi()
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivaskoruprolu007&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinivaskoruprolu007&theme=tokyonight" alt="GitHub Streak Stats"/>
+</div>
+
 ### 🎯 Quick Facts
 
 - 📝 I write regularly on [LinkedIn](https://www.linkedin.com/in/srinivas-koruprolu/) and [Medium](https://medium.com/@srinivaskoruprolu5)
