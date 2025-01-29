@@ -75,7 +75,9 @@ me.say_hi()
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinivaskoruprolu007&theme=tokyonight" alt="GitHub Streak Stats"/>
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=srinivaskoruprolu007&theme=tokyonight)](https://git.io/streak-stats)
+
 </div>
 
 ### 🎯 Quick Facts
