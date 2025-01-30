@@ -1,7 +1,7 @@
 <div align="center">
   
   # Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  
+
   <div id="header">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6495ED&center=true&vCenter=true&random=false&width=500&lines=Data+Analyst+%F0%9F%93%8A;Full+Stack+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A4%96;Chess+Player+%E2%99%9F%EF%B8%8F" alt="Typing SVG" />
   </div>
