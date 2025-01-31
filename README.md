@@ -87,7 +87,7 @@ const srinivas = {
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=srinivaskoruprolu007&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&ring=2234FF&currStreakLabel=2234FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Srinivaskoruprolu007)](https://git.io/streak-stats))
 
 </div>
 
