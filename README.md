@@ -1,24 +1,14 @@
-# Hello, World! 🌟 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-
-### 🚀 Data Scientist | Full Stack Developer | ML Engineer | Chess Strategist ♟️
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=6495ED&center=true&vCenter=true&width=800&lines=Transforming+Data+into+Insights+%F0%9F%93%8A;Crafting+Intelligent+Solutions+%F0%9F%A4%96;Building+Scalable+Applications+%F0%9F%92%BB;Strategizing+in+Code+and+Chess+%E2%99%9F%EF%B8%8F)](https://git.io/typing-svg)
+# Hello, World! 🌟 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srinivas-koruprolu)
-[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@srinivaskoruprolu5)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/srinivasg3112)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srinivasg3112@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=srinivaskoruprolu007&style=for-the-badge&color=blueviolet)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=6495ED&center=true&vCenter=true&width=1000&lines=🚀+Data+Scientist+|+ML+Engineer+|+Full+Stack+Developer+|+Chess+Strategist+♟️)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🌟 About Me
+## 🌟 About Me  
 
 ```typescript
 const srinivas = {
@@ -36,16 +26,13 @@ const srinivas = {
         "💻 Full Stack Wizardry", 
         "♟️ Chess Strategic Thinking"
     ],
-    contact: "srinivasg3112@gmail.com",
     funFact: "Code flows like chess moves - strategic, precise, and always thinking ahead! ♟️"
 };
 ```
 
 ---
 
-## 🛠 Tech Arsenal
-
-<div align="center">
+## 🛠 Tech Stack  
 
 ### 📊 Data Science & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -72,24 +59,33 @@ const srinivas = {
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
-</div>
+---
+
+## 📊 GitHub & LeetCode Analytics  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/srinivasg3112?theme=dark&font=Fira%20Code&ext=heatmap" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Srinivaskoruprolu007&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&background=45%2C0D1117%2C161B22&stroke=DDDDDD&ring=6495ED&fire=6495ED&currStreakNum=DDDDDD&currStreakLabel=6495ED&sideNums=DDDDDD&sideLabels=6495ED&dates=DDDDDD" width="600"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srinivaskoruprolu007&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivaskoruprolu007&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+</p>
 
 ---
 
-## 📊 GitHub & LeetCode Analytics
+## 🚀 Connect with Me  
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/srinivasg3112?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="600"/>
-  
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Srinivaskoruprolu007&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&background=45%2C0D1117%2C161B22&stroke=DDDDDD&ring=6495ED&fire=6495ED&currStreakNum=DDDDDD&currStreakLabel=6495ED&sideNums=DDDDDD&sideLabels=6495ED&dates=DDDDDD" alt="GitHub Streak" width="600"/>
-  </a>
-  
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srinivaskoruprolu007&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivaskoruprolu007&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-  </div>
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/srinivas-koruprolu"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@srinivaskoruprolu5"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://www.leetcode.com/srinivasg3112"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:srinivasg3112@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -102,22 +98,20 @@ const srinivas = {
 
 ---
 
-## 📝 Thought Leadership
-🔗 Explore my insights and articles on [Medium](https://medium.com/@srinivaskoruprolu5)
+## 🎨 Contribution Canvas  
 
----
-
-## ⚡ Philosophical Byte
-> "In the grand chessboard of technology, every line of code is a strategic move, every algorithm a calculated strategy!"
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
 <div align="center">
-  
-### 🌈 My Contribution Canvas
-![Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+### ⚡ Philosophical Byte
+> "In the grand chessboard of technology, every line of code is a strategic move, every algorithm a calculated strategy!"
 
 ### 🚀 Let's Innovate Together!
-Scan the digital landscape, break barriers, and create extraordinary solutions.
+Scan the digital landscape, break barriers, and create extraordinary solutions.  
 
 </div>
