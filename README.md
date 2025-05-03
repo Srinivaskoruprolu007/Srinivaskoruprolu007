@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 👋 Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
@@ -30,54 +31,51 @@ const srinivas = {
   ],
   funFact: "Writing code is like playing chess—every move should be smart, thoughtful, and lead to success!"
 };
-```
+````
 
 ---
 
-## 🧰 Tools I Use
+## 🧰 Tools & Tech Stack
 
 ### 📈 Data & Machine Learning
-These are the tools I use to work on data projects and build intelligent models:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
 
 ### 💻 Web Development
-For creating awesome web apps and dynamic websites:
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 
 ### ☁️ Cloud & Databases
-Tools I use to manage data, store information, and host applications:
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
 
 ---
 
-## 📊 My Stats
+## 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/srinivasg3112?theme=dark&font=Fira%20Code&ext=heatmap" width="600" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=srinivaskoruprolu007&show_icons=true&theme=radical" width="600" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivaskoruprolu007&layout=compact&theme=radical" />
-  <br/>
+  <img src="https://leetcard.jacoblin.cool/srinivasg3112?theme=dark&font=Fira%20Code&ext=heatmap" width="600" alt="LeetCode Stats"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=srinivaskoruprolu007&show_icons=true&theme=radical" width="600" alt="GitHub Stats"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivaskoruprolu007&layout=compact&theme=radical" alt="Top Languages"/>
+  <br/><br/>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
 ---
 
-## 🌍 Let's Connect!
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/srinivas-koruprolu">
@@ -96,9 +94,14 @@ Tools I use to manage data, store information, and host applications:
 
 ---
 
-## ⚡ Quote of the Day  
+## ⚡ Quote of the Day
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
+</p>
 
-> Thanks for visiting my GitHub profile! I hope you find something inspiring. Keep learning, building, and growing every day! 🚀
+---
+
+> 🙌 Thanks for visiting my GitHub profile!
+> 🚀 Let's keep learning, building, and growing together!
 
