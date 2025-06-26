@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 👋 Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
@@ -6,6 +5,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=👨‍💻+I+Love+Coding+%7C+I+Build+Cool+Stuff+%7C+I+Play+Chess!)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=srinivaskoruprolu007&style=flat-square&color=blueviolet)
+
+<!-- Animated waving hand -->
+<img src="https://raw.githubusercontent.com/srinivaskoruprolu007/srinivaskoruprolu007/main/assets/wave.gif" width="80" alt="Waving hand animation"/>
+
+<!-- Animated rocket -->
+<img src="https://raw.githubusercontent.com/srinivaskoruprolu007/srinivaskoruprolu007/main/assets/rocket.gif" width="60" alt="Rocket animation"/>
 
 </div>
 
@@ -31,7 +36,7 @@ const srinivas = {
   ],
   funFact: "Writing code is like playing chess—every move should be smart, thoughtful, and lead to success!"
 };
-````
+```
 
 ---
 
@@ -39,25 +44,39 @@ const srinivas = {
 
 ### 📈 Data & Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### 💻 Web Development
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![C# .NET](https://img.shields.io/badge/C%23%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### ☁️ Cloud & Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <!-- Animated trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=srinivaskoruprolu007&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophy" />
+  <br/><br/>
+  <!-- Animated activity graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srinivaskoruprolu007&theme=react-dark&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+</p>
 
 ---
 
@@ -104,4 +123,3 @@ const srinivas = {
 
 > 🙌 Thanks for visiting my GitHub profile!
 > 🚀 Let's keep learning, building, and growing together!
-
